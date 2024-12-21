@@ -1,0 +1,2 @@
+# tahu
+tahu pertama saya
